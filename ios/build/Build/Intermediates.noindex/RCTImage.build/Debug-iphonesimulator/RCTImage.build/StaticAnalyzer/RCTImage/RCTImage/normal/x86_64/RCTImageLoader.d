@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/node_modules/react-native/Libraries/Image/RCTImageLoader.m \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/node_modules/react-native/Libraries/Image/RCTImageUtils.h

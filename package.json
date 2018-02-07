@@ -1,0 +1,31 @@
+{
+  "name": "transport-pris-app",
+  "devDependencies": {
+	  "babel-preset-react-native-stage-0": "^1.0.1",
+	  "react-native-debugger-open": "^0.3.11",
+	  "react-devtools": "^3.0.0",
+	  "react-test-renderer": "16.0.0"
+  },
+  "scripts": {
+	  "start": "react-native start",
+	  "android": "yarn debugger && react-native run-android",
+	  "ios": "yarn debugger && react-native run-ios",
+	  "link": "react-native link",
+	  "debugger": "rndebugger-open"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "firebase": "^4.9.0",
+    "react": "16.0.0",
+    "react-native": "0.50.3",
+    "react-native-vector-icons": "latest",
+    "react-navigation": "^1.0.0-beta.27",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-devtools": "^3.4.1",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-thunk": "^2.2.0",
+  }
+}

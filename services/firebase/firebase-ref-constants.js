@@ -1,0 +1,3 @@
+export const JURNEY_INFO_REF = 'JURNEY_INFO';
+export const TRIPS_MADE_REF = 'TRIPS_MADE';
+export const CURRENT_PRICE_REF = 'CURRENT_PRICE';
