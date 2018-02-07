@@ -9,8 +9,6 @@ import { makeTrip } from '../../services/firebase/ducks/trips-made.ducks';
 import TopBar from '../../commons/TopBar/top-bar.container.js';
 import { themeBackgroundColor, viewMarginTop } from '../../services/theme/theme-constants';
 
-
-
 export const MainViewNavigationOptions = {
 	tabBarLabel: 'Home',
 	tabBarIcon:(

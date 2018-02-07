@@ -13,9 +13,6 @@
 	  "link": "react-native link",
 	  "debugger": "rndebugger-open"
   },
-  "jest": {
-    "preset": "jest-expo"
-  },
   "dependencies": {
     "firebase": "^4.9.0",
     "react": "16.0.0",
@@ -26,6 +23,6 @@
     "redux": "^3.7.2",
     "redux-devtools": "^3.4.1",
     "redux-devtools-extension": "^2.13.2",
-    "redux-thunk": "^2.2.0",
+    "redux-thunk": "^2.2.0"
   }
 }
