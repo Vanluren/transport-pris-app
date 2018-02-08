@@ -8,6 +8,7 @@ import TripCardList from '../../commons/JurneyCardList/jurney-card-list.containe
 import { makeTrip } from '../../services/firebase/ducks/trips-made.ducks';
 import TopBar from '../../commons/TopBar/top-bar.container.js';
 import { themeBackgroundColor, viewMarginTop } from '../../services/theme/theme-constants';
+import { removeJurney } from '../../services/firebase/ducks/jurney-info.ducks';
 
 
 
@@ -56,6 +57,7 @@ class MainView extends Component {
 		      <TripCardList
 			      dataArray={this.props.jurneyInfo}
 			      cardOnPressFunc={this.props.makeTrip}
+			      cardLongPressFunc={this.props.removeJurney}
 		      />
 	      </View>
 	    );
@@ -79,7 +81,8 @@ const mapStateToProps = state => ({
 		isLoading: state.UI_STATE.IS_LOADING,
 });
 const mapDispatchToProps = dispatch => ({
-		makeTrip: bindActionCreators(makeTrip, dispatch)
+		makeTrip: bindActionCreators(makeTrip, dispatch),
+		removeJurney: bindActionCreators(removeJurney, dispatch)
 });
 
 export default connect(mapStateToProps, mapDispatchToProps)(MainView) ;

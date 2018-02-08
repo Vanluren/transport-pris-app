@@ -2,9 +2,10 @@ import React, { PropTypes } from 'react';
 import { Text, TouchableOpacity, View } from 'react-native';
 import Icon  from 'react-native-vector-icons/Ionicons';
 
-const JurneyCard = ({tripDep, tripDest, tripPrice, onPressFunc}) => (
+const JurneyCard = ({tripDep, tripDest, tripPrice, onPressFunc, longPressFunc}) => (
 	<TouchableOpacity
 		onPress={onPressFunc}
+		onLongPress={longPressFunc}
 	>
 		<View  style={styles.container}>
 			<View style={styles.textContainer}>
