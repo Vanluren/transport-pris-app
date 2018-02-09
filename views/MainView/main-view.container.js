@@ -10,8 +10,6 @@ import TopBar from '../../commons/TopBar/top-bar.container.js';
 import { themeBackgroundColor, viewMarginTop } from '../../services/theme/theme-constants';
 import { removeJurney } from '../../services/firebase/ducks/jurney-info.ducks';
 
-
-
 export const MainViewNavigationOptions = {
 	tabBarLabel: 'Home',
 	tabBarIcon:(

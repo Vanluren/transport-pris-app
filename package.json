@@ -13,9 +13,6 @@
 	  "link": "react-native link",
 	  "debugger": "rndebugger-open"
   },
-  "jest": {
-    "preset": "jest-expo"
-  },
   "dependencies": {
     "firebase": "^4.9.0",
     "react": "16.0.0",
