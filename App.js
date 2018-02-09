@@ -56,7 +56,6 @@ const App = () => (
 	<Provider store={store}>
 		<RootTabs/>
 	</Provider>
-	
 );
 
 export default App;
