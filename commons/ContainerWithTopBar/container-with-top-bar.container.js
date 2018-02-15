@@ -15,7 +15,6 @@ const ContainerWithTopBarContainer = ({children, topBarText, style}) => (
 const styles = {
 	container: {
 		display: 'flex',
-		//flex:1,
 		backgroundColor: 'white',
 		shadowColor: "#000000",
 		shadowOpacity: 0.8,
