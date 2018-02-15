@@ -7,12 +7,14 @@ const DEFAULT_STATE = [];
 
 export const FETCH_JURNEY_INFO_DATA = 'FETCH_JURNEY_INFO_DATA';
 const SUBMIT_NEW_JURNEY = 'SUBMIT_NEW_JURNEY';
-
+const REMOVE_JURNEY = 'REMOVE_JURNEY';
 
 export const submitNewJurney = (departureStation, destinationStation, price) => async (dispatch) => {
 	try {
+		const JURNEY_GUID = makeListItemID();
+		
 		const newJurney = {
-			id: makeListItemID(),
+			id: JURNEY_GUID ,
 			departureStation: departureStation,
 			destinationStation: destinationStation,
 			price: price
@@ -28,6 +30,33 @@ export const submitNewJurney = (departureStation, destinationStation, price) => 
 		dispatch({
 			type: SUBMIT_NEW_JURNEY,
 		});
+	} catch (err){
+		handleFetchError(err);
+	}
+};
+
+
+export const removeJurney = (jurneyID) => async (dispatch) => {
+	try {
+		let keyToRemove = '';
+		
+		firebase.database()
+			.ref(JURNEY_INFO_REF)
+			.orderByChild('id')
+			.equalTo(jurneyID)
+			.once('value', (snap) =>{
+				snap.forEach((child) =>{
+					keyToRemove = child.key;
+				})
+			});
+			
+		firebase
+			.database()
+			.ref(JURNEY_INFO_REF)
+			.child(keyToRemove)
+			.remove();
+		
+		dispatch({ type: REMOVE_JURNEY });
 	} catch (err){
 		handleFetchError(err);
 	}
