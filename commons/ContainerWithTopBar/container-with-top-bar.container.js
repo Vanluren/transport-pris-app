@@ -2,8 +2,9 @@ import React  from 'react';
 import { View } from 'react-native';
 import ContainerTopBar from './components/top-bar';
 
-const ContainerWithTopBarContainer = ({children, topBarText}) => (
-	<View style={styles.container}>
+const ContainerWithTopBarContainer = ({children, topBarText, style}) => (
+	<View
+		style={[styles.container, style]}>
 		<ContainerTopBar
 			text={topBarText}
 		/>
@@ -14,6 +15,7 @@ const ContainerWithTopBarContainer = ({children, topBarText}) => (
 const styles = {
 	container: {
 		display: 'flex',
+		//flex:1,
 		backgroundColor: 'white',
 		shadowColor: "#000000",
 		shadowOpacity: 0.8,
