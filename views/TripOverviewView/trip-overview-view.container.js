@@ -32,6 +32,7 @@ class TripOverviewViewContainer extends Component {
 				/>
 				<ContainerWithTopBar
 					topBarText='Trips'
+					style={{flex:1}}
 				>
 					<TripsMadeList
 						data={this.props.tripsMade}

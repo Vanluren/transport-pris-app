@@ -8,7 +8,7 @@ const JurneyCard = ({tripDep, tripDest, tripPrice, onPressFunc, longPressFunc}) 
 		onLongPress={longPressFunc}
 	>
 		<View  style={styles.container}>
-			<View style={styles.textContainer}>
+			<View style={[styles.textContainer, styles.localText]}>
 				<Text style={styles.text}>{tripDep}</Text>
 				<Icon
 					name='ios-arrow-forward'
@@ -43,10 +43,9 @@ const styles = {
 		}
 	},
 	textContainer: {
-		flex: 2,
 		flexDirection: 'row',
 		alignItems: 'center',
-		justifyContent: 'center',
+		justifyContent: 'flex-start',
 		overflow: 'hidden'
 	},
 	text: {
@@ -54,9 +53,13 @@ const styles = {
 		fontSize: 22,
 		padding: 5,
 	},
-	price: {
-		justifyContent: 'flex-end'
-	},
+		localText :{
+			flex: 2,
+		},
+		price: {
+			flex: 1,
+			justifyContent: 'flex-end'
+		},
 	icon: {
 		color: 'white',
 		fontSize: 22,
