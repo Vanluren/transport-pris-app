@@ -4,7 +4,7 @@
             "outputFile": "/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/bffc5b3167373277f13ce508ccb92d1f/res/values-hdpi/values-hdpi.xml",
+                    "source": "/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2a7f032c1973b7d0c5439e1b000f40aa/res/values-hdpi/values-hdpi.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

@@ -4,18 +4,18 @@ ADDED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/
 INJECTED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:1:1-32:12
 INJECTED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:1:1-32:12
 INJECTED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:1:1-32:12
-MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/8944d9dfa79804c45dcbb57c82429d39/AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/bffc5b3167373277f13ce508ccb92d1f/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/ba2afdfcd0be8674e792400679dbf4dc/AndroidManifest.xml:17:1-24:12
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/68e0060b7ae204b997f0dbc944b47f55/AndroidManifest.xml:10:1-18:12
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/a216e975d12d2c945387308678896b5c/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7981ef3dc634dc4b2abcf0bf4074ee40/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/3f73e2e0fb4716ba600709ceb745e79e/AndroidManifest.xml:1:1-4:12
-MERGED from [org.webkit:android-jsc:r174650] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4728826385857cd6077b57d705800cb4/AndroidManifest.xml:1:1-3:12
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/98366a293a3747752c51849e5b9b4556/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/e3b75a7e6b1a01df2ceb545a26160095/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/3cca5cc49148bcfd675344c231c242f3/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/ba95982ae4767ad92a8675ff34066011/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/be85249e860d58153c00564d6f99652a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2a7f032c1973b7d0c5439e1b000f40aa/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/84145c069e323dc11ef21b097ded264b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/53a469a9d8764bb3847ab868c8ef4027/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/2f64c405281a7de4bfa8ad9acb3cd3b6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/ee2e6f86f89c30ad8d192c17a93855bb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c600acc87e6f3084645d69c6dfcbd53e/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/26c6be81a781dc4715bb210ae84472d8/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/566c7edc9c37499667010f556276c400/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/d32e3c4401bd25adef9df844734aa534/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/347a2707ad254f5fc60d9e300ed4fadd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/56a620a0ce108983ac2e4644764f6123/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:1:1-32:12
 INJECTED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:1:1-32:12
 INJECTED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:1:1-32:12
@@ -39,36 +39,36 @@ ADDED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/
 		ADDED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:7:5-77
-MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/8944d9dfa79804c45dcbb57c82429d39/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/8944d9dfa79804c45dcbb57c82429d39/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/be85249e860d58153c00564d6f99652a/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/be85249e860d58153c00564d6f99652a/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:9:5-11:41
 INJECTED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:9:5-11:41
 INJECTED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:9:5-11:41
-MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/8944d9dfa79804c45dcbb57c82429d39/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/8944d9dfa79804c45dcbb57c82429d39/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/bffc5b3167373277f13ce508ccb92d1f/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/bffc5b3167373277f13ce508ccb92d1f/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/ba2afdfcd0be8674e792400679dbf4dc/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/ba2afdfcd0be8674e792400679dbf4dc/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/68e0060b7ae204b997f0dbc944b47f55/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/68e0060b7ae204b997f0dbc944b47f55/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/a216e975d12d2c945387308678896b5c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/a216e975d12d2c945387308678896b5c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7981ef3dc634dc4b2abcf0bf4074ee40/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7981ef3dc634dc4b2abcf0bf4074ee40/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/3f73e2e0fb4716ba600709ceb745e79e/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/3f73e2e0fb4716ba600709ceb745e79e/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/98366a293a3747752c51849e5b9b4556/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/98366a293a3747752c51849e5b9b4556/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/e3b75a7e6b1a01df2ceb545a26160095/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/e3b75a7e6b1a01df2ceb545a26160095/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/3cca5cc49148bcfd675344c231c242f3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/3cca5cc49148bcfd675344c231c242f3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/ba95982ae4767ad92a8675ff34066011/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/ba95982ae4767ad92a8675ff34066011/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/be85249e860d58153c00564d6f99652a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/be85249e860d58153c00564d6f99652a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2a7f032c1973b7d0c5439e1b000f40aa/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2a7f032c1973b7d0c5439e1b000f40aa/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/84145c069e323dc11ef21b097ded264b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/84145c069e323dc11ef21b097ded264b/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/53a469a9d8764bb3847ab868c8ef4027/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/53a469a9d8764bb3847ab868c8ef4027/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/2f64c405281a7de4bfa8ad9acb3cd3b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/2f64c405281a7de4bfa8ad9acb3cd3b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/ee2e6f86f89c30ad8d192c17a93855bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/ee2e6f86f89c30ad8d192c17a93855bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c600acc87e6f3084645d69c6dfcbd53e/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c600acc87e6f3084645d69c6dfcbd53e/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/566c7edc9c37499667010f556276c400/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/566c7edc9c37499667010f556276c400/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/d32e3c4401bd25adef9df844734aa534/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/d32e3c4401bd25adef9df844734aa534/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/347a2707ad254f5fc60d9e300ed4fadd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/347a2707ad254f5fc60d9e300ed4fadd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/56a620a0ce108983ac2e4644764f6123/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/56a620a0ce108983ac2e4644764f6123/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:9:5-11:41
 INJECTED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:9:5-11:41
 	android:targetSdkVersion
@@ -81,16 +81,16 @@ INJECTED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-a
 		INJECTED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml
 application
 ADDED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:13:5-30:19
-MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/8944d9dfa79804c45dcbb57c82429d39/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/8944d9dfa79804c45dcbb57c82429d39/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/bffc5b3167373277f13ce508ccb92d1f/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/bffc5b3167373277f13ce508ccb92d1f/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/ba2afdfcd0be8674e792400679dbf4dc/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/ba2afdfcd0be8674e792400679dbf4dc/AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/3f73e2e0fb4716ba600709ceb745e79e/AndroidManifest.xml:3:3-17
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/3f73e2e0fb4716ba600709ceb745e79e/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4728826385857cd6077b57d705800cb4/AndroidManifest.xml:2:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4728826385857cd6077b57d705800cb4/AndroidManifest.xml:2:3-17
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/be85249e860d58153c00564d6f99652a/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.50.3] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/be85249e860d58153c00564d6f99652a/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2a7f032c1973b7d0c5439e1b000f40aa/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2a7f032c1973b7d0c5439e1b000f40aa/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/84145c069e323dc11ef21b097ded264b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/84145c069e323dc11ef21b097ded264b/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c600acc87e6f3084645d69c6dfcbd53e/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c600acc87e6f3084645d69c6dfcbd53e/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/26c6be81a781dc4715bb210ae84472d8/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/26c6be81a781dc4715bb210ae84472d8/AndroidManifest.xml:2:3-17
 	android:label
 		ADDED from /Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/src/main/AndroidManifest.xml:16:7-39
 	android:icon

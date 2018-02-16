@@ -4,7 +4,7 @@
             "outputFile": "/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/bffc5b3167373277f13ce508ccb92d1f/res/values-v17/values-v17.xml",
+                    "source": "/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2a7f032c1973b7d0c5439e1b000f40aa/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "4,7,11,15,18,21,24,28,32,35,38,41,45",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",

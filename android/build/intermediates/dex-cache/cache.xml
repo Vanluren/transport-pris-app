@@ -14,10 +14,174 @@
         is-multidex="false"
         jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
         jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/84145c069e323dc11ef21b097ded264b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_ea53ff6e2bd2c0295b83cbeef26f1427260d2b79.jar" />
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_5b6bf9609de66329ba57c27c2e40d0e7166f543c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_567513d4d79d9620df1ec4e90eaca9145e8067a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_728d2bf5d38ab6ad0f63e8986d26fc583be51c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/566c7edc9c37499667010f556276c400/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a5b8bc55578545c9dc2d3c65c793d109b5545251.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/be85249e860d58153c00564d6f99652a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_8cf5a593544a8b47e03bf214e2ab6cf5e7a03a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_a6fff394871359a0026bdf1c27d589bf5dd2e04d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/84145c069e323dc11ef21b097ded264b/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c600acc87e6f3084645d69c6dfcbd53e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/347a2707ad254f5fc60d9e300ed4fadd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_75e6376984632b43211f6e27571757667981f4e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/56a620a0ce108983ac2e4644764f6123/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/2f64c405281a7de4bfa8ad9acb3cd3b6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,120 +203,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_8cf5a593544a8b47e03bf214e2ab6cf5e7a03a23.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_a6d05d91aacb4ac4e7bdb121e22c21b5759c05be.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ad7fb0665405f21f8eefb4f6fed2f5742c414334.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_75e6376984632b43211f6e27571757667981f4e0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b87af564e3f8f8e0e45bf289fc902b5aa56e3f91.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_63504befb9607f193a17880a7e3b988411f1dd62.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_a6fff394871359a0026bdf1c27d589bf5dd2e04d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_72438f960175cdf49730e74a65d03caad29797ef.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_42b1c8d494211fe9bec57e08e9db7ba33d636b3c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_33d8090c8ea3388587ba760cddaf20d56e262f07.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_567513d4d79d9620df1ec4e90eaca9145e8067a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
         <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_a63a35deb518c8948c284f126d6bcafa03b5c334.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_5b6bf9609de66329ba57c27c2e40d0e7166f543c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -165,21 +221,127 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/be85249e860d58153c00564d6f99652a/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a5b8bc55578545c9dc2d3c65c793d109b5545251.jar" />
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/ee2e6f86f89c30ad8d192c17a93855bb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/9.jar" />
     </item>
     <item
         is-multidex="false"
         jar="/Users/villadsvalur/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_728d2bf5d38ab6ad0f63e8986d26fc583be51c97.jar" />
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_a6d05d91aacb4ac4e7bdb121e22c21b5759c05be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_42b1c8d494211fe9bec57e08e9db7ba33d636b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/53a469a9d8764bb3847ab868c8ef4027/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_33d8090c8ea3388587ba760cddaf20d56e262f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_ea53ff6e2bd2c0295b83cbeef26f1427260d2b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b87af564e3f8f8e0e45bf289fc902b5aa56e3f91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/d32e3c4401bd25adef9df844734aa534/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_72438f960175cdf49730e74a65d03caad29797ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2a7f032c1973b7d0c5439e1b000f40aa/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -189,6 +351,54 @@
         revision="23.0.1"
         sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
         <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_e68308407072abbb225d5f206792998f0a5a1c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ad7fb0665405f21f8eefb4f6fed2f5742c414334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_63504befb9607f193a17880a7e3b988411f1dd62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/villadsvalur/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/villadsvalur/Developer/PersonligeProjekter/transport-pris-app/android/app/build/intermediates/transforms/preDex/release/11.jar" />
     </item>
 
 </items>
